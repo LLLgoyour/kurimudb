@@ -1,0 +1,1 @@
+import{o as s,c as n,a}from"./app.8320d959.js";const e='{"title":"Cookie","description":"","frontmatter":{},"headers":[{"level":2,"title":"安装","slug":"安装"},{"level":2,"title":"示例","slug":"示例"}],"relativePath":"drivers/cookie.md","lastUpdated":1620962721952}',o={},p=a('',6);o.render=function(a,e,o,t,r,i){return s(),n("div",null,[p])};export default o;export{e as __pageData};
